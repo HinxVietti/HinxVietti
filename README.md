@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: @HinxVietti
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!--
 **HinxVietti/HinxVietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +27,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
 or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 -->
-
+<i> 📫 How to reach me: @HinxVietti</i>
 <i>Happy Coding!</i> 😊
 
 </div>
