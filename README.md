@@ -3,7 +3,7 @@
 ## 主修
 
 - Unity3D
-- C# - .netframework
+- C# .netframework
 - python
 
 ## 辅修
@@ -11,7 +11,7 @@
 - Node.js
 - vue
 - 嵌入式
-- cg
+- unity-shader
 
 ## 当前专注
 
