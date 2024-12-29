@@ -5,6 +5,7 @@
 - Unity3D
 - C# .netframework
 - python
+- windows VR
 
 ## 辅修
 
@@ -12,6 +13,8 @@
 - vue
 - 嵌入式
 - unity-shader
+- windows
+- ffmpeg
 
 ## 当前专注
 
